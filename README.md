@@ -32,22 +32,23 @@ This project is a Machine Learning-based web application that predicts the risk 
 - F1 Score: ~88%
 
 ##  Project Structure:-
-'''
+
+```
 Heart-Disease-Prediction/
 │
-├── app.py # Streamlit web app
-├── heart.ipynb # Model training notebook
-├── heart.csv # Dataset
-├── Log_Reg_heart.pkl # Trained model
-├── scaler.pkl # Scaler
-├── columns.pkl # Feature columns
+├── app.py
+├── heart.ipynb
+├── heart.csv
+├── Log_Reg_heart.pkl
+├── scaler.pkl
+├── columns.pkl
 │
-├── frontpage.png # App UI screenshot
-├── input.png # Input example
-├── OP-1.png # Output (Low Risk)
-├── OP-2.png # Output (High Risk)
+├── frontpage.png
+├── input.png
+├── OP-1.png
+├── OP-2.png
 │
-└── README.md # Documentation
-'''
+└── README.md
+```
 
 
