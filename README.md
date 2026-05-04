@@ -32,6 +32,7 @@ This project is a Machine Learning-based web application that predicts the risk 
 - F1 Score: ~88%
 
 ##  Project Structure:-
+'''
 Heart-Disease-Prediction/
 │
 ├── app.py # Streamlit web app
@@ -47,5 +48,6 @@ Heart-Disease-Prediction/
 ├── OP-2.png # Output (High Risk)
 │
 └── README.md # Documentation
+'''
 
 
