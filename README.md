@@ -51,4 +51,6 @@ Heart-Disease-Prediction/
 └── README.md
 ```
 
+##  Live Demo
+https://heart-disease-prediction-i4vqtryz5hvktqhzv9sb2z.streamlit.app/
 
